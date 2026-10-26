@@ -56,6 +56,9 @@ I used Microsoft Excel to clean, organise, analyse and visualise retail and sale
 
 ### 🛍️ Retail Sales Analysis
 Analysed customer transactions, product categories, sales revenue and commissions.
+<img width="250" height="501" alt="image" src="https://github.com/user-attachments/assets/021559de-b9b6-4916-97be-f3e97b72786a" />
+
+<img width="509" height="355" alt="image" src="https://github.com/user-attachments/assets/5db926bf-ef02-4401-9094-2df9f87765bd" />
 
 ### 🚴 Bike Sales Analysis
 Used PivotTables to compare sales by country, age group and gender.
@@ -73,7 +76,8 @@ Analysed laptop, smartphone and printer sales across English counties using Pivo
 - 🛒 Retail sales and commissions were summarised using Excel formulas.
 - 🎯 Product sales were classified into **High**, **Medium** and **Low** categories.
 
----
+<img width="441" height="330" alt="image" src="https://github.com/user-attachments/assets/df9bd8df-b400-42b7-9f7c-3b07aebb655d" />
+
 
 ## 🎯 Learning Outcomes
 
@@ -84,8 +88,11 @@ Through this project, I developed practical experience in:
 - ✔️ Data aggregation using PivotTables
 - ✔️ Creating charts and visual reports
 - ✔️ Identifying business trends and presenting findings
+<img width="359" height="231" alt="image" src="https://github.com/user-attachments/assets/08ee05fc-993c-40b8-a5d7-2f5f9ed139af" />
 
----<img width="707" height="570" alt="image" src="https://github.com/user-attachments/assets/5a09b8d1-196e-4659-af44-a397db12cc09" />
+<img width="264" height="170" alt="image" src="https://github.com/user-attachments/assets/1c8460c5-693a-437e-b12f-c638d65c518b" />
+
+
 
 
 ## 🚀 Technologies
