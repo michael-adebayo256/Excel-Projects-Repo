@@ -85,7 +85,8 @@ Through this project, I developed practical experience in:
 - ✔️ Creating charts and visual reports
 - ✔️ Identifying business trends and presenting findings
 
----
+---<img width="707" height="570" alt="image" src="https://github.com/user-attachments/assets/5a09b8d1-196e-4659-af44-a397db12cc09" />
+
 
 ## 🚀 Technologies
 
